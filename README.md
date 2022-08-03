@@ -11,6 +11,6 @@ When an entire party dies, a battle is won. When a battle is won, the next battl
 Players do 2 Damage with PUNCH.
 Vin Fletcher does 0-1 (x3) Damage randomly with SHOOT.
 Skeletons do 0-1 Damage randomly with BONECRUNCH.
-Stone Amoraks do 0-2 Damage randomly with BITE
-The Uncoded One does 0-3 Damage randomly with UNRAVELING
+Stone Amoraks do 0-2 Damage randomly with BITE.
+The Uncoded One does 0-3 Damage randomly with UNRAVELING.
 
