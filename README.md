@@ -1,4 +1,7 @@
 # Turn-Based-Battle
+
+***To run: Simply run the .EXE file***
+
 Text-based combat game with options for computer-controlled players
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 This is a turn-based, text-based combat game.
