@@ -1,0 +1,16 @@
+C:\Users\Louis\Desktop\CodingProjects\TheFinalBattleRedux\bin\Debug\net5.0\TheFinalBattleRedux.exe
+C:\Users\Louis\Desktop\CodingProjects\TheFinalBattleRedux\bin\Debug\net5.0\TheFinalBattleRedux.deps.json
+C:\Users\Louis\Desktop\CodingProjects\TheFinalBattleRedux\bin\Debug\net5.0\TheFinalBattleRedux.runtimeconfig.json
+C:\Users\Louis\Desktop\CodingProjects\TheFinalBattleRedux\bin\Debug\net5.0\TheFinalBattleRedux.runtimeconfig.dev.json
+C:\Users\Louis\Desktop\CodingProjects\TheFinalBattleRedux\bin\Debug\net5.0\TheFinalBattleRedux.dll
+C:\Users\Louis\Desktop\CodingProjects\TheFinalBattleRedux\bin\Debug\net5.0\TheFinalBattleRedux.pdb
+C:\Users\Louis\Desktop\CodingProjects\TheFinalBattleRedux\obj\Debug\net5.0\TheFinalBattleRedux.csproj.AssemblyReference.cache
+C:\Users\Louis\Desktop\CodingProjects\TheFinalBattleRedux\obj\Debug\net5.0\TheFinalBattleRedux.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Louis\Desktop\CodingProjects\TheFinalBattleRedux\obj\Debug\net5.0\TheFinalBattleRedux.AssemblyInfoInputs.cache
+C:\Users\Louis\Desktop\CodingProjects\TheFinalBattleRedux\obj\Debug\net5.0\TheFinalBattleRedux.AssemblyInfo.cs
+C:\Users\Louis\Desktop\CodingProjects\TheFinalBattleRedux\obj\Debug\net5.0\TheFinalBattleRedux.csproj.CoreCompileInputs.cache
+C:\Users\Louis\Desktop\CodingProjects\TheFinalBattleRedux\obj\Debug\net5.0\TheFinalBattleRedux.dll
+C:\Users\Louis\Desktop\CodingProjects\TheFinalBattleRedux\obj\Debug\net5.0\refint\TheFinalBattleRedux.dll
+C:\Users\Louis\Desktop\CodingProjects\TheFinalBattleRedux\obj\Debug\net5.0\TheFinalBattleRedux.pdb
+C:\Users\Louis\Desktop\CodingProjects\TheFinalBattleRedux\obj\Debug\net5.0\TheFinalBattleRedux.genruntimeconfig.cache
+C:\Users\Louis\Desktop\CodingProjects\TheFinalBattleRedux\obj\Debug\net5.0\ref\TheFinalBattleRedux.dll
