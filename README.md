@@ -17,3 +17,5 @@ Skeletons do 0-1 Damage randomly with BONECRUNCH.
 Stone Amoraks do 0-2 Damage randomly with BITE.
 The Uncoded One does 0-3 Damage randomly with UNRAVELING.
 
+
+*Learning Experience: This is the capstone project utilizing many concepts learned from C# Object-Oriented Programming. Concepts include: Classes, Objects, Loops, Delegation, Events, Data Structures (lists/arrays), Inheritence/Polymorphism/Overriding, Random generation.
